@@ -2,7 +2,7 @@
 
 Complejidad Computacional, curso 2026/27.
 
-Autor: <!-- nombre y correo -->
+Autor: Pablo García de los Reyes
 
 ## Tipo de autómata implementado
 
